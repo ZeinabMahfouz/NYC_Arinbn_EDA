@@ -72,7 +72,7 @@ scipy>=1.7.0
 scikit-learn>=1.0.0
 ⚙️ Installation
 1. Clone the Repository
-bashgit clone https://github.com/yourusername/nyc-airbnb-analytics.git
+bashgit clone https://github.com/ZeinabMahfouz/NYC_Airbnb_EDA.git
 cd nyc-airbnb-analytics
 2. Create Virtual Environment
 bashpython -m venv venv
